@@ -1,0 +1,14 @@
+---RESULTADOS DEL CONTEO DE EXISTENCIAS CON FECHA: 28/06/2021---
+
+SKU	Descripcion		Diferencias	Total $
+4343	Pantalon FValeLNegr	-2		-245.80
+6565	Guantes GrGlobSRojo	-12		-600.00
+5454	Falda CasuZaraXLNegr	0		0
+2121	Vestido FlZaraSBeig	3		1667.97
+3232	Botas VaquNike28Cafe	0		0.00
+9999	Gorro FachSonyUAzul	1		299
+1111	Gorra MariTendURojo	2		398
+3333	Vestido deGeneMNegr	0		0
+
+
+Diferencia total en $: 1519.17
